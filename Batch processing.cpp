@@ -36,7 +36,7 @@ int main(int argc, char *argv[]) {
     printf("\n");
     printf("Your rules should have been converted, please check the new file yourself!");
     printf("\n");
-	printf("ÄúµÄ¹æÔòÓ¦¸ÃÒÑ¾­×ª»»ºÃÁË£¬Çë×ÔĞĞ²é¿´ĞÂÎÄ¼ş!");
+	printf("æ‚¨çš„è§„åˆ™åº”è¯¥å·²ç»è½¬æ¢å¥½äº†ï¼Œè¯·è‡ªè¡ŒæŸ¥çœ‹æ–°æ–‡ä»¶!");
     printf("\n");
 	return 0;
 }
