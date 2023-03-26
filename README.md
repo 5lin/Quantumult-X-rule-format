@@ -28,5 +28,8 @@
 把需要转换的规则复制粘贴到old.txt中,然后在本文件夹中打开cmd窗口，输入 allchange.exe old.txt new.txt
 
 
+![](https://img.l50.top/file/8f5a7253b212b4b99ad6a.png)
+
+
 
 如果成功，你将能正常看到上面的提示。并且此时就可以直接转换完的圈X规则了！
